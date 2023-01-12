@@ -1,5 +1,5 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Gold AppSec
 
 # Description of your website. This is used for social sharing.
 description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
@@ -22,7 +22,7 @@ social:
 url: https://goldappsec.com.br
 baseurl: "/green" 
 markdown: kramdown
-sharing_image: share.jpg
+sharing_image: assets/img/full-sm.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
