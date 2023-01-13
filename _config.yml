@@ -18,7 +18,7 @@ content: Green Team Services AppSec focused is to help you automate your securit
  - Integrity Monitoring
  - Malware Protection
  - Full coverage monitoring
- 
+
 # Add your social links
 # social:
 #   - platform: github
@@ -42,4 +42,4 @@ google_analytics: "G-3CLTHF25DG" # google analytics tracking
 half_side: right
 
 # Full layout
-full_text_position: right # left, right or center
+#full_text_position: right # left, right or center
