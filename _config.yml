@@ -19,7 +19,7 @@ social:
     url: brianmaierjr
 
 # General settings
-url: https://goldappsec.com.br/green
+# url: https://goldappsec.com.br/green
 baseurl: "/green" 
 markdown: kramdown
 sharing_image: share.jpg
