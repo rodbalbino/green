@@ -30,4 +30,4 @@ google_analytics: "G-3CLTHF25DG" # google analytics tracking
 half_side: left
 
 # Full layout
-#full_text_position: right # left, right or center
+full_text_position: left # left, right or center
