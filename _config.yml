@@ -19,8 +19,8 @@ social:
     url: brianmaierjr
 
 # General settings
-# url: https://goldappsec.com.br/green
-baseurl: "/green" 
+url: https://goldappsec.com.br/green
+#baseurl: "/green" 
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
