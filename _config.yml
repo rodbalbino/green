@@ -1,29 +1,28 @@
 # Your Name or Company
-title: Gold AppSec
+title: Green Team Services
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Green Team Services is to help you automate your security capabilities.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Green Team Services is to help you automate your security capabilities.
 
 # Add your social links
-social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+# social:
+#   - platform: github
+#     url: https://github.com/brianmaierjr
+#   - platform: facebook
+#     url: https://facebook.com/brianmaierjr
+#   - platform: twitter
+#     url: https://twitter.com/brianmaierjr
+#   - platform: linkedin
+#     url: brianmaierjr
 
 # General settings
-url: https://goldappsec.com.br
 baseurl: "/green" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+google_analytics: "G-3CLTHF25DG" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
