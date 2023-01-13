@@ -5,8 +5,20 @@ title: Green Team Services
 description:  Green Team Services is to help you automate your security capabilities.
 
 # A brief blurb about yourself
-content: Green Team Services is to help you automate your security capabilities.
-
+content: Green Team Services AppSec focused is to help you automate your security capabilities. Green Team consists of ongoing structured interactions between the Blue Team and members of the software team (Yellow Team). The ultimate goal is to improve code-based and design-based defence capability for detection, incident response and data forensics.
+ - We help you improve your logging capability working to standardise and prioritise what is important
+ - We help you provide better data to the DFIR Team
+ - We help you define a better change management process
+ - We will discuss solutions and improvements for
+ - DFIR Output
+ - Logging improvements
+ - Log content / events
+ - Log generation standardising
+ - Change Management
+ - Integrity Monitoring
+ - Malware Protection
+ - Full coverage monitoring
+ 
 # Add your social links
 # social:
 #   - platform: github
